@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "39aa15ce746f635b50d5e9d3",
+  "owner": "uyfpwu",
+  "repo": "page-b2b4d80bf6fed20ad214aae9",
+  "title": "clashmi官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b2b4d80bf6fed20ad214aae9",
+      "a": "clashmi官网",
+      "b": "",
+      "entity": "clashmi官网",
+      "brand": "clashmi官网",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d741c269f80521a528200b5613f8d1d30a58f87e1721dcb9d6a5fb10a9016fdc",
+      "content": {
+        "keyword1": "clashmi官网",
+        "keyword2": "",
+        "primary_entity": "clashmi官网",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi官网提供稳定VPN加速器与机场订阅服务，支持Clash客户端下载。基础版、旗舰版、团队版多种套餐，按年更优惠，覆盖流媒体解锁与游戏加速场景。",
+          "AI_DESCRIPTION": "clashmi官网提供稳定VPN加速器与机场订阅服务，支持Clash客户端下载。基础版、旗舰版、团队版多种套餐，按年更优惠，覆盖流媒体解锁与游戏加速场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --warm-white: #f8f5f0;\n            --coral: #ff6b6b;\n            --coral-dark: #e05c5c;\n            --text-dark: #2c2c2c;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--warm-white);\n            color: var(--text-dark);\n            line-height: 1.6;\n            font-size: 16px;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 15px;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 15px 0;\n        }\n        .logo {\n            font-size: 24px;\n            font-weight: 700;\n            color: var(--coral);\n        }\n        .nav a {\n            margin-left: 25px;\n            color: var(--text-dark);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .hero {\n            background: linear-gradient(135deg, #fff7ed 0%, #f8f5f0 100%);\n            padding: 80px 20px 60px;\n            text-align: center;\n            border-radius: 16px;\n            margin: 30px 0;\n        }\n        .hero h1 {\n            font-size: 2.8rem;\n            margin-bottom: 20px;\n            color: var(--text-dark);\n        }\n        .hero p {\n            font-size: 1.2rem;\n            max-width: 700px;\n            margin: 0 auto 30px;\n        }\n        .btn {\n            background: var(--coral);\n            color: white;\n            border: none;\n            padding: 14px 32px;\n            font-size: 1.1rem;\n            border-radius: 50px;\n            cursor: pointer;\n            text-decoration: none;\n            display: inline-block;\n            margin: 0 10px;\n            transition: all 0.3s;\n        }\n        .btn:hover {\n            background: var(--coral-dark);\n            transform: translateY(-3px);\n        }\n        .section {\n            padding: 60px 20px;\n            background: white;\n            margin: 30px 0;\n            border-radius: 16px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: 1fr;\n            gap: 25px;\n        }\n        @media (min-width: 768px) {\n            .plans {\n                grid-template-columns: repeat(3, 1fr);\n            }\n        }\n        .plan {\n            border: 3px solid transparent;\n            transition: all 0.4s;\n            background: #fff;\n            padding: 30px 25px;\n            border-radius: 16px;\n        }\n        .plan.featured {\n            border-color: var(--coral);\n            transform: scale(1.03);\n            box-shadow: 0 10px 30px rgba(255, 107, 107, 0.15);\n        }\n        .plan-name {\n            font-size: 1.35rem;\n            margin-bottom: 15px;\n            color: var(--text-dark);\n        }\n        .price {\n            font-size: 2rem;\n            font-weight: 700;\n            color: var(--coral);\n            margin: 15px 0;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.95rem;\n        }\n        .features {\n            margin: 25px 0;\n        }\n        .features li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n        }\n        details {\n            margin: 20px 0;\n            border-radius: 12px;\n            overflow: hidden;\n            background: #fff;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n        }\n        summary {\n            padding: 18px 25px;\n            font-weight: 600;\n            cursor: pointer;\n            background: #fff;\n            list-style: none;\n        }\n        summary:hover {\n            background: #fff7ed;\n        }\n        .answer {\n            padding: 0 25px 25px;\n            color: #555;\n        }\n        footer {\n            text-align: center;\n            padding: 40px 20px 20px;\n            color: #777;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            .hero h1 { font-size: 2.4rem; }\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"nav\">\n            <div class=\"logo\">clashmi官网</div>\n            <div>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\" class=\"btn\">立即下载</a>\n            </div>\n        </nav>\n    </header>\n\n    <main>\n        <div class=\"hero\">\n            <h1>clashmi官网</h1>\n            <p>专业VPN加速器与机场订阅平台，提供稳定高速节点与Clash客户端下载</p>\n            <a href=\"#plans\" class=\"btn\">查看套餐</a>\n            <a href=\"#download\" class=\"btn\">客户端下载</a>\n        </div>\n\n        <div class=\"section\">\n            <h2>品牌简介</h2>\n            <p>clashmi官网是专注VPN加速与机场订阅的优质平台，专为Clash用户打造。无论您是个人玩家还是企业团队，都能找到适合的高速节点方案。</p>\n        </div>\n\n        <div class=\"section\">\n            <h2>使用场景</h2>\n            <p>流媒体解锁、游戏加速、远程办公、企业内网穿透、海外社交等场景皆可轻松应对。</p>\n            <div>\n                <div>流媒体</div>\n                <div>游戏加速</div>\n                <div>远程办公</div>\n            </div>\n        </div>\n\n        <div class=\"section\" id=\"plans\">\n            <h2>精选套餐</h2>\n            <div class=\"plans\">\n                \n                <div class=\"plan\">\n                    <div class=\"plan-name\">基础版</div>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan featured\">\n                    <div class=\"plan-name\">旗舰版</div>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan\">\n                    <div class=\"plan-name\">团队版</div>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"section\">\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问 <a href=\"#\">clashmi官网</a> 选择套餐</li>\n                <li>完成支付获取订阅链接</li>\n                <li>下载Clash客户端（推荐官方版）</li>\n                <li>导入订阅链接并连接优质节点</li>\n            </ol>\n        </div>\n\n        <div class=\"section\" id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何获取clashmi机场订阅链接？</summary>\n                <div class=\"answer\">登录官网后选择套餐，支付成功后立即获取订阅链接，支持Clash、Clash Meta等客户端使用。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"answer\">支持Windows、macOS、iOS、Android等多平台客户端，家庭可同时在线3-20台设备。</div>\n            </details>\n            <details>\n                <summary>节点速度如何保证？</summary>\n                <div class=\"answer\">旗舰版采用IPLC专线，游戏节点延迟可低至15ms以下，基础版也提供稳定高速线路池。</div>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <div class=\"answer\">7x24在线工单支持，旗舰版及以上套餐均提供专属客户经理，问题通常24小时内解决。</div>\n            </details>\n            <details>\n                <summary>如何切换到更高版本套餐？</summary>\n                <div class=\"answer\">随时在官网调整套餐，升级后流量按新套餐计算，原有流量可继续使用。</div>\n            </details>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        <p>© 2025 clashmi官网 | 机场订阅 · VPN加速 · 客户端下载</p>\n        <p>友情链接：<a href=\"#\">官方博客</a> · <a href=\"#\">帮助中心</a></p>\n    </footer>\n\n",
+          "hash": "c4bb58f6d213fd79f2719ba6e48c81aa99bb01b842cc6c32de29ada29190d202",
+          "seo": {
+            "title": "clashmi官网 - 专业VPN加速器与机场订阅 | Clash客户端下载",
+            "keywords": "clashmi, VPN加速器, 机场订阅, Clash客户端, 客户端下载, VPN节点",
+            "description": "clashmi官网提供稳定VPN加速器与机场订阅服务，支持Clash客户端下载。基础版、旗舰版、团队版多种套餐，按年更优惠，覆盖流媒体解锁与游戏加速场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yzbdyy1202.cn",
+    "host": "p-6a45c9cc7e.yzbdyy1202.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "dd69d360cc08cb3cc8a6b44b8f419bf2ae5f99f47cf9d9623adf427d8ad1b612",
+    "sitemap.xml": "c737f8e9e740ba1dd153a3ba65297ca5a36010c6b7ab9a0371996291cdefded3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e1e46ea28997f64f842da108e4b6bcbbc983e8002cbb8d02a904fa21c43ae50d",
+    "robots.txt": "d57f7e1435fd51a9793d4f19fe1b093d92c63355cf9d28a0d16d0185ffedf53f",
+    "5f74d5b1811d6199d9969d0583876dda.txt": "00fb883651282cf8caf2d200078516165c226907735539063842190f6508a852"
+  },
+  "revision": "970dd36af9a0f6b99033660afd8541530acf5e7d711d4e3cc8d84fd327916d59"
+}
